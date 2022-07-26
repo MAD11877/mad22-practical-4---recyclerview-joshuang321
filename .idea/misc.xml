@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/joshua/Desktop/MAD/mad22-practical-4---recyclerview-joshuang321/app/src/main/res/layout/activity_list.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/joshua/Desktop/MAD/mad22-practical-4---recyclerview-joshuang321/app/src/main/res/layout/activity_main.xml" value="0.12447916666666667" />
+        <entry key="..\:/Users/joshua/Desktop/MAD/mad22-practical-4---recyclerview-joshuang321/app/src/main/res/layout/list_recycleview.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
